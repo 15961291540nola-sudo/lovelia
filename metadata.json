@@ -1,0 +1,7 @@
+{
+  "name": "大舅妈自然拼读 (Cute Phonics & IPA)",
+  "description": "一个画风可爱的英语自然拼读与音标学习应用，结合 Gemini 2.5 TTS 技术实现真实发音教学。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
